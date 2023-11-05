@@ -66,6 +66,6 @@ console.log('Get Apple', fruitDict.getItem('Apple'));
 console.log('Get Fish', animalDict.getItem('Fish'))
 console.log(animalDict.delItem('Fish'));
 console.log('Get Fish', animalDict.getItem('Fish'));
-console.log('Add not unique key to techDict');
 
+console.log('Add not unique key to techDict');
 console.log(techDict.setItem('SQL', 10, 'test'))
